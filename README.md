@@ -1,2 +1,1 @@
-- Our HuggingFace：https://huggingface.co/QiYuan-tech
-- Our Github：https://github.com/QiYuan-tech
+
