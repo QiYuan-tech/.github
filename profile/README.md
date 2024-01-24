@@ -14,3 +14,8 @@
 - Our HuggingFace：https://huggingface.co/QiYuan-tech
 - Our Github：https://github.com/QiYuan-tech
 - Our homepage：https://qiyuan-tech.github.io
+
+<center>
+  <p>We have received sponsorships from the following organizations.</p>
+  <a href="https://www.amazonaws.cn/startups/"><img src="./assets/aws.png"></a>
+</center>
