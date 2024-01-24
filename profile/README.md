@@ -16,4 +16,4 @@
 - Our homepage：https://qiyuan-tech.github.io
 
 <p>We have received sponsorships from the following organizations.</p>
-  <a href="https://www.amazonaws.cn/startups/"><img src="https://github.com/QiYuan-tech/.github/blob/main/profile/assets/aws.png"></a>
+  <a href="https://www.amazonaws.cn/startups/"><img src="https://github.com/QiYuan-tech/.github/blob/main/profile/assets/aws.png" width="100px"></a>
