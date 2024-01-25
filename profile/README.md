@@ -13,6 +13,7 @@
 
 - Our HuggingFace：https://huggingface.co/QiYuan-tech
 - Our Github：https://github.com/QiYuan-tech
+- Our ModelScope: https://modelscope.cn/organization/QiYuan-tech
 - Our homepage：https://qiyuan-tech.github.io
 - Our Researchers: https://github.com/QiYuan-tech/.github/blob/main/profile/RESEARCHERS.md
 
