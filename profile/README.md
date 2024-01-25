@@ -17,3 +17,4 @@
 
 <p>We have received sponsorships from the following organizations.</p>
   <a href="https://www.amazonaws.cn/startups/"><img src="https://github.com/QiYuan-tech/.github/blob/main/profile/assets/aws.png" width="100px"></a>
+  <a href="https://startup.huaweicloud.com/"><img src="https://github.com/QiYuan-tech/.github/blob/main/profile/assets/hw.png" width="50px"></a>
