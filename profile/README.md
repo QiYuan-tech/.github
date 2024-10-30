@@ -11,11 +11,14 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-- Our HuggingFace：https://huggingface.co/QiYuan-tech
 - Our Github：https://github.com/QiYuan-tech
-- Our ModelScope: https://modelscope.cn/organization/QiYuan-tech
 - Our Homepage：https://qiyuan-tech.github.io
+
+<!--
+- Our ModelScope: https://modelscope.cn/organization/QiYuan-tech
+- Our HuggingFace：https://huggingface.co/QiYuan-tech
 - Our Researchers: https://github.com/QiYuan-tech/.github/blob/main/profile/RESEARCHERS.md
+-->
 
 <p>We have received sponsorships from the following organizations.</p>
   <a href="https://www.amazonaws.cn/startups/"><img src="https://github.com/QiYuan-tech/.github/blob/main/profile/assets/aws.png" width="100px"></a>
